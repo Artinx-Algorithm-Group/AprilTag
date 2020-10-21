@@ -1,0 +1,7 @@
+/home/babyxin/AprilTag/sample/buildDLL/build/CMakeFiles/install/strip.dir
+/home/babyxin/AprilTag/sample/buildDLL/build/CMakeFiles/edit_cache.dir
+/home/babyxin/AprilTag/sample/buildDLL/build/CMakeFiles/rebuild_cache.dir
+/home/babyxin/AprilTag/sample/buildDLL/build/CMakeFiles/apriltag_lib.dir
+/home/babyxin/AprilTag/sample/buildDLL/build/CMakeFiles/list_install_components.dir
+/home/babyxin/AprilTag/sample/buildDLL/build/CMakeFiles/install/local.dir
+/home/babyxin/AprilTag/sample/buildDLL/build/CMakeFiles/install.dir

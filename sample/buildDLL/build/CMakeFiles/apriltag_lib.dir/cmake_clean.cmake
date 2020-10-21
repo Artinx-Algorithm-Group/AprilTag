@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/aprilTagLocator.cpp.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/apriltag.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/apriltag_pose.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/apriltag_quad_thresh.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/tag16h5.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/tag25h9.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/tag36h11.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/tagCircle21h7.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/tagCircle49h12.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/tagCustom48h12.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/tagStandard41h12.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/tagStandard52h13.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/g2d.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/getopt.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/homography.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/image_u8.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/image_u8x3.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/image_u8x4.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/matd.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/pam.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/pjpeg-idct.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/pjpeg.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/pnm.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/string_util.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/svd22.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/time_util.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/unionfind.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/workerpool.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/zarray.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/zhash.c.o"
+  "CMakeFiles/apriltag_lib.dir/libaprilTagLocator/apriltag/common/zmaxheap.c.o"
+  "../install/lib/libapriltag_lib.pdb"
+  "../install/lib/libapriltag_lib.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/apriltag_lib.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
